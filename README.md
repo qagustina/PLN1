@@ -1,7 +1,7 @@
 # Procesamiento de Lenguaje Natural I - FIUBA
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E12AQG_-BUPKFVidA/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1684518280356?e=1750896000&v=beta&t=cJPS63T2Fpchs8uMFAf2sMZSWAjvnVA4Q2Rj9uCKxVE" width="600" alt="nlp gif divertido"/>
+  <img src="media/gif-nlp.gif" width="600" alt="nlp-gif"/>
 </p>
 
 Repositorio de la asignatura Procesamiento del Lenguaje Natural 1 (FIUBA) con los desafíos prácticos trabajados durante el curso. Técnicas de vectorización, embeddings, generación de secuencias y modelos seq2seq.
